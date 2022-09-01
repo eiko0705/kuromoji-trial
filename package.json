@@ -1,0 +1,15 @@
+{
+  "name": "kuromoji-trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kuromojiTrial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node kuromojiTrial.js"
+  },
+  "author": "Eiko Imai <eiko.imai.070502@gmail.com> (https://github.com/eiko0705)",
+  "license": "ISC",
+  "dependencies": {
+    "kuromoji": "^0.1.2"
+  }
+}
